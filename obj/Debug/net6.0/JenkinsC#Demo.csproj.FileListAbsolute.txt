@@ -1,0 +1,14 @@
+D:\.DevOps\jenkins\JenkinsC#Demo\bin\Debug\net6.0\JenkinsC#Demo.exe
+D:\.DevOps\jenkins\JenkinsC#Demo\bin\Debug\net6.0\JenkinsC#Demo.deps.json
+D:\.DevOps\jenkins\JenkinsC#Demo\bin\Debug\net6.0\JenkinsC#Demo.runtimeconfig.json
+D:\.DevOps\jenkins\JenkinsC#Demo\bin\Debug\net6.0\JenkinsC#Demo.dll
+D:\.DevOps\jenkins\JenkinsC#Demo\bin\Debug\net6.0\JenkinsC#Demo.pdb
+D:\.DevOps\jenkins\JenkinsC#Demo\obj\Debug\net6.0\JenkinsC#Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.DevOps\jenkins\JenkinsC#Demo\obj\Debug\net6.0\JenkinsC#Demo.AssemblyInfoInputs.cache
+D:\.DevOps\jenkins\JenkinsC#Demo\obj\Debug\net6.0\JenkinsC#Demo.AssemblyInfo.cs
+D:\.DevOps\jenkins\JenkinsC#Demo\obj\Debug\net6.0\JenkinsC#Demo.csproj.CoreCompileInputs.cache
+D:\.DevOps\jenkins\JenkinsC#Demo\obj\Debug\net6.0\JenkinsC#Demo.dll
+D:\.DevOps\jenkins\JenkinsC#Demo\obj\Debug\net6.0\refint\JenkinsC#Demo.dll
+D:\.DevOps\jenkins\JenkinsC#Demo\obj\Debug\net6.0\JenkinsC#Demo.pdb
+D:\.DevOps\jenkins\JenkinsC#Demo\obj\Debug\net6.0\JenkinsC#Demo.genruntimeconfig.cache
+D:\.DevOps\jenkins\JenkinsC#Demo\obj\Debug\net6.0\ref\JenkinsC#Demo.dll
