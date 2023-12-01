@@ -10,7 +10,6 @@ namespace JenkinsC_Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Write your name: ");
             Console.WriteLine("Hello guys");
             Console.WriteLine("Welcome you to Jenkins World!");
         }
